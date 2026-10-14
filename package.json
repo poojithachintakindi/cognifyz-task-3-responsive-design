@@ -1,0 +1,21 @@
+{
+  "name": "cognifyz-student-registration-task-3",
+  "version": "1.0.0",
+  "description": "Responsive student registration system for Cognifyz Full Stack Development Internship Task 3.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "ejs",
+    "student-registration",
+    "responsive-design"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
+  }
+}
